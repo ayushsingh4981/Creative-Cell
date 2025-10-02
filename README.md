@@ -1,4 +1,4 @@
-# K72 Clone Website 🎨
+# K72 Website 🎨
 
 This is a clone of the **K72 website**, built with **React + Vite + Tailwind CSS**.  
 It replicates the design and animations of the original site with custom components and smooth transitions.
@@ -34,28 +34,14 @@ src/
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/k72-clone.git
-cd k72-clone
+git clone https://github.com/your-username/k72.git
+cd k72
 
-Install dependencies:
-
-npm install
-
-
-Run locally:
-
-npm run dev
-
-
-Build for production:
-
-npm run build
 
 🌐 Deployment
 
 The project is deployed on Vercel.
 k72-5ake.vercel.app
-
 
 Built as a practice project
 
